@@ -1,0 +1,262 @@
+{
+  "code": 1,
+  "message": "成功",
+  "result": [
+    {
+      "questionID": 19444720,
+      "title": "<p>两束相干光干涉时，明纹的光强</p>",
+      "type": 1,
+      "isContent": 1,
+      "hardLevel": 3,
+      "parentID": 3,
+      "courseID": 0,
+      "score": 2,
+      "correctReply": null,
+      "correctAnswer": null,
+      "createTime": null,
+      "updateTime": 1761475924000,
+      "remark": null,
+      "desc1": "",
+      "orgID": 0,
+      "userID": 0,
+      "aspID": 0,
+      "isShare": "0",
+      "theLatest": null,
+      "isUsed": null,
+      "autosore": null,
+      "blankOrder": 0,
+      "choiceItemList": [
+        {
+          "choiceItemID": 46553718,
+          "questionID": 19444720,
+          "title": "<p>是两束光光强之和</p>",
+          "link": null
+        },
+        {
+          "choiceItemID": 46553719,
+          "questionID": 19444720,
+          "title": "<p>是两束光光强之差</p>",
+          "link": null
+        },
+        {
+          "choiceItemID": 46553720,
+          "questionID": 19444720,
+          "title": "<p>是两束光光强的平方和</p>",
+          "link": null
+        },
+        {
+          "choiceItemID": 46553721,
+          "questionID": 19444720,
+          "title": "<p>正比于两束光振幅之和的平方</p>",
+          "link": null
+        }
+      ],
+      "subQuestions": null,
+      "titleLinkList": null,
+      "analyzeLinkList": null,
+      "answerLinkList": null,
+      "demoLinkList": null,
+      "formulaVar": null,
+      "studentAnswer": {
+        "answer": "D",
+        "score": 2,
+        "comment": null,
+        "questionID": 19444720,
+        "type": 1
+      }
+    },
+    {
+      "questionID": 19493048,
+      "title": "<p>自然光入射到两个重叠的偏振片上．如果透射光强为，(1)透射光最大强度的&nbsp;<span class=\"formula-param\" contenteditable=\"false\" data-content=\"a\">a*</span> 分之1，设这两个偏振片透光轴方向间的夹角为 <em><span style=\"font-family: 'times new roman', times;\">&alpha;</span></em>，则<em><span style=\"font-family: 'times new roman', times;\">cos&alpha;=</span></em>(&nbsp;)；(2)入射光强的&nbsp;<span class=\"formula-param\" contenteditable=\"false\" data-content=\"b\">b*</span> 分之1，设这两个偏振片透光轴方向间的夹角为&nbsp;<em><span style=\"font-family: 'times new roman', times;\">&beta;</span></em>，则<em><span style=\"font-family: 'times new roman', times;\">cos&beta;</span></em>= (&nbsp;) 。<strong>（结果若多于两位小数，则四舍五入保留两位小数）</strong></p>",
+      "type": 25,
+      "isContent": 1,
+      "hardLevel": 3,
+      "parentID": 3,
+      "courseID": 0,
+      "score": 10,
+      "correctReply": "",
+      "correctAnswer": [
+        {
+          "answerRange": "0.03",
+          "blankIndex": 1,
+          "precision": 0.01,
+          "formula": "1/sqrt(a)"
+        },
+        {
+          "answerRange": "0.03",
+          "blankIndex": 2,
+          "precision": 0.01,
+          "formula": "sqrt(2/b)"
+        }
+      ],
+      "createTime": null,
+      "updateTime": 1764253342000,
+      "remark": null,
+      "desc1": "[{\"max\":8,\"min\":3,\"name\":\"a\",\"precision\":1},{\"max\":8,\"min\":3,\"name\":\"b\",\"precision\":1}]",
+      "desc4": null,
+      "orgID": 0,
+      "userID": 0,
+      "aspID": 0,
+      "isShare": "0",
+      "theLatest": null,
+      "isUsed": 0,
+      "autosore": null,
+      "blankOrder": 0,
+      "choiceItemList": null,
+      "subQuestions": null,
+      "titleLinkList": null,
+      "analyzeLinkList": null,
+      "answerLinkList": null,
+      "demoLinkList": null,
+      "formulaVar": [
+        {
+          "name": "a",
+          "min": null,
+          "max": null,
+          "precision": null,
+          "value": 3
+        },
+        {
+          "name": "b",
+          "min": null,
+          "max": null,
+          "precision": null,
+          "value": 5
+        }
+      ],
+      "studentAnswer": {
+        "answer": "0.578;0.63",
+        "score": 10,
+        "comment": null,
+        "questionID": 19493048,
+        "type": 25
+      }
+    },
+    {
+      "questionID": 19493047,
+      "title": "<p>如图所示，介质Ⅰ为空气(n<sub>1</sub>＝1.00)，Ⅱ为某透明介质(n<sub>2</sub>＝&nbsp;<span class=\"formula-param\" contenteditable=\"false\" data-content=\"a\">a*</span> )，两个交界面相互平行．一束自然光由介质Ⅰ中以<em><span style=\"font-family: 'times new roman', times;\">ｉ</span></em>角入射．若使Ⅰ、Ⅱ交界面上的反射光均为线偏振光，&nbsp; 则(1) 入射角<em><span style=\"font-family: 'times new roman', times;\">i</span></em>为arctan (&nbsp;) ;&nbsp; (2) 图中透明介质上表面处折射角<em><span style=\"font-family: 'times new roman', times;\">r</span></em>为arctan (&nbsp;) ； (3) 在图中透明介质板下表面处的反射光是否也是线偏振光？(&nbsp;) （是填1，否填0） <strong>（结果若多于两位小数，则四舍五入保留两位小数）</strong></p>\n<p><strong><img src=\"https://lms.dgut.edu.cn/uobs/view/resources/4591515/202511272205114506.png\" width=\"173\" height=\"142\" /></strong></p>",
+      "type": 25,
+      "isContent": 1,
+      "hardLevel": 3,
+      "parentID": 3,
+      "courseID": 0,
+      "score": 12,
+      "correctReply": "",
+      "correctAnswer": [
+        {
+          "answerRange": 0,
+          "blankIndex": 1,
+          "precision": 0.1,
+          "formula": "a"
+        },
+        {
+          "answerRange": "0.03",
+          "blankIndex": 2,
+          "precision": 0.01,
+          "formula": "1/a"
+        },
+        {
+          "answerRange": 0,
+          "blankIndex": 3,
+          "precision": 1,
+          "formula": "1"
+        }
+      ],
+      "createTime": null,
+      "updateTime": 1764252361000,
+      "remark": null,
+      "desc1": "[{\"max\":1.6,\"min\":1.1,\"name\":\"a\",\"precision\":0.1}]",
+      "desc4": null,
+      "orgID": 0,
+      "userID": 0,
+      "aspID": 0,
+      "isShare": "0",
+      "theLatest": null,
+      "isUsed": 0,
+      "autosore": null,
+      "blankOrder": 0,
+      "choiceItemList": null,
+      "subQuestions": null,
+      "titleLinkList": null,
+      "analyzeLinkList": null,
+      "answerLinkList": null,
+      "demoLinkList": null,
+      "formulaVar": [
+        {
+          "name": "a",
+          "min": null,
+          "max": null,
+          "precision": null,
+          "value": 1.2
+        }
+      ],
+      "studentAnswer": {
+        "answer": ";;",
+        "score": 0,
+        "comment": null,
+        "questionID": 19493047,
+        "type": 25
+      }
+    },
+    {
+      "questionID": 19483285,
+      "title": "<p>测得一池静水的表面反射出来的太阳光是线偏振光，求此时太阳处在地平线的仰角&theta;为&nbsp;(&nbsp;)&nbsp;&deg; 处？&nbsp;此时反射光和折射光的夹角为(&nbsp;) &deg; 。（水的折射率为 <span class=\"formula-param\" contenteditable=\"false\" data-content=\"a\">a*</span>&nbsp;）</p>\n<p><strong>（结果若多于两位小数，则四舍五入保留两位小数）</strong></p>\n<p><strong><img alt=\"\" /><img src=\"https://leicloud.ulearning.cn/resources/4591515/202111292224467077.png\" alt=\"\" /><br /></strong></p>",
+      "type": 25,
+      "isContent": 1,
+      "hardLevel": 3,
+      "parentID": 3,
+      "courseID": 0,
+      "score": 12,
+      "correctReply": "",
+      "correctAnswer": [
+        {
+          "answerRange": "0.50",
+          "blankIndex": 1,
+          "precision": 0.01,
+          "formula": "90-atan(a)*180/3.1415926"
+        },
+        {
+          "answerRange": 0,
+          "blankIndex": "618170775782.7177",
+          "precision": 1,
+          "formula": "90"
+        }
+      ],
+      "createTime": null,
+      "updateTime": 1764254150000,
+      "remark": null,
+      "desc1": "[{\"max\":1.5,\"min\":1.2,\"name\":\"a\",\"precision\":0.1}]",
+      "desc4": null,
+      "orgID": 0,
+      "userID": 0,
+      "aspID": 0,
+      "isShare": "0",
+      "theLatest": null,
+      "isUsed": 0,
+      "autosore": null,
+      "blankOrder": 0,
+      "choiceItemList": null,
+      "subQuestions": null,
+      "titleLinkList": null,
+      "analyzeLinkList": null,
+      "answerLinkList": null,
+      "demoLinkList": null,
+      "formulaVar": [
+        {
+          "name": "a",
+          "min": null,
+          "max": null,
+          "precision": null,
+          "value": 1.4
+        }
+      ],
+      "studentAnswer": {
+        "answer": "50;90",
+        "score": 6,
+        "comment": null,
+        "questionID": 19483285,
+        "type": 25
+      }
+    }
+  ]
+}
